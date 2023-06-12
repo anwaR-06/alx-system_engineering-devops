@@ -1,2 +1,2 @@
 #!/bin/bash
-se -n '10p' iacta
+tail -n 1 iacta >>iacta
